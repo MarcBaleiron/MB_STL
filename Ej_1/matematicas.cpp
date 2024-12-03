@@ -1,4 +1,4 @@
-#include <iostream>
+// Definición del namespace Matemáticas y de las funciones de suma y resta dentro de este
 
 namespace Matematicas
 {

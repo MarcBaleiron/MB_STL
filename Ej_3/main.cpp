@@ -2,6 +2,8 @@
 #include "circulo.cpp"
 using namespace std;
 
+// main donde se hace uso de las funciones del namespace Geometría
+
 int main ()
 {
     Geometria::Circulo circ (3);

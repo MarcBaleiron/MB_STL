@@ -2,6 +2,8 @@
 #include "matematicas.cpp"
 using namespace std;
 
+// main donde se hace uso de las funciones del namespace Matemáticas
+
 int main ()
 {
     cout << "La suma de 3 y 8 es: " << Matematicas::suma (3, 8) << endl;

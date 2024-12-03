@@ -1,4 +1,4 @@
-#include <iostream>
+// Definición de la función para calcular el area de un triangulo, que pertenece al namespace Geometría
 
 namespace Geometria
 {

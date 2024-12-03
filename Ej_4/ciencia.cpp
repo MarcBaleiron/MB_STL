@@ -1,4 +1,4 @@
-#include <iostream>
+// Definición del namespace Ciencia, dentro del cual se difine el namespace Física con su función para calcular la energía
 
 namespace Ciencia
 {
